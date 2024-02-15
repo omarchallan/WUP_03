@@ -45,6 +45,13 @@ This is also nine times average number of drinks for those who are seated in the
 
 ## Inferential Tests
 
+
+```{r}
+model1 <- aov(alcohol~Seat,data=davisdata)
+summary.aov(model1)
+```
+
+
 ## Conclusions
 
 
