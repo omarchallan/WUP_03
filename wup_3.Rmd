@@ -37,6 +37,12 @@ From what the graph shows, we are able to say that the box for students sitting 
 favstats(alcohol~Seat,data=ucdavis1)
 ```
 
+
+The numerical data shows that the average number of drinks for the people seated in the back is about 9 drinks.
+This is three times the average number of drinks for those who are seated in the middle. 
+This is also nine times average number of drinks for those who are seated in the front.
+
+
 ## Inferential Tests
 
 ## Conclusions
